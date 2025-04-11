@@ -1,0 +1,100 @@
+header {
+    background-color: rgb(141, 134, 242);
+    padding: 40px;
+    border-radius: 40px;
+}
+
+h1 {
+    color: rgb(21, 4, 67);
+    text-align: center;
+    font-size: 70px;
+}
+
+body {
+    background-color: rgb(200, 247, 249);
+    color: rgb(0, 0, 0);
+}
+
+section {
+    margin: 20px auto;
+    padding: 50px;
+    width: 600px;
+    border-radius: 20px;
+}
+
+.hobbies {
+    background-color: rgb(229, 241, 61);
+    width: 400px;
+}
+
+.skills {
+    background-color: rgb(255, 251, 0);
+    width: 400px;
+}
+
+.video {
+    width: 500px;
+}
+
+.links {
+    background-color: rgb(241, 246, 168);
+    text-align: left;
+    font-size: 30px;
+    height: 200px;
+}
+
+a {
+    padding: 40px;
+}
+
+.profile-img {
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background: rgb(134, 228, 242);
+    color: rgb(31, 2, 112);
+    text-align: center;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+a {
+    color: #0073e6;
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid rgb(250, 29, 169);
+    border-radius: 20px;
+}
+
+.about {
+    background-color: rgb(238, 172, 213);
+    text-align: center;
+    border-radius: 50px;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    color: rgb(255, 52, 52);
+    font-weight: 800;
+}
+
+.like {
+    display: flex;
+}
+
+.about_text {
+    font-size: 30px;
+}
+
+li {
+    font-size: 30px;
+    color: rgb(70, 131, 230);
+}
