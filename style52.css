@@ -98,3 +98,10 @@ li {
     font-size: 30px;
     color: rgb(70, 131, 230);
 }
+
+table{
+    width: 80%;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
