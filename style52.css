@@ -16,7 +16,7 @@ body {
 }
 
 section {
-    margin: 20px ;
+    margin: 20px auto ;
     padding: 50px;
     width: 600px;
     border-radius: 20px;
@@ -24,16 +24,20 @@ section {
 
 .hobbies {
     background-color: rgb(61, 241, 100);
-    width: 250px;
+    width: 500px;
+    height: 300px;
 }
 
 .skills {
     background-color: rgb(74, 226, 84);
-    width: 250px;
+    width: 500px;
+    height: 300px;
 }
 
 .video {
-    width: 250px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
 }
 
 .links {
